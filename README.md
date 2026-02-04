@@ -11,7 +11,7 @@ This repository contains practicals for the course "Introduction to linguistics 
 
 ## Prerequisites  
 
-The students are expected to be familiar with the basics of Python programming language. The knowledge of the following libraries would be an asset: `pandas`, `numpy`, `matplotlib`. 
+Students are expected to be familiar with the basics of Python programming language. The knowledge of the following libraries would be an asset: `pandas`, `numpy`, `matplotlib`. 
 
 ## Schedule
 
