@@ -23,4 +23,5 @@ Students are expected to be familiar with the basics of Python programming langu
 | 3 | Phonetics & phonology | 04/02 | [Predicting vowels using formants](https://colab.research.google.com/drive/1EHWmx9aGHXtOGzkzfqou8eOUR547KBfp?usp=sharing) | AK |
 |4 | Morphology | 11/02 | [Linguistic puzzles](https://github.com/alexeykosh/intro-to-ling-2026/blob/main/S4/TD4-problem-set.pdf) | AK | 
 | 5 | Morphology |18/02 | [Morpheme-to-word ratio](https://colab.research.google.com/drive/1mdgtznojollWVWusDw_eKMRBANlskiks?usp=sharing) | AK |
+| 6 | Syntax | 25/02 | Syntax trees | AK | 
 | 7 | Syntax | 18/03 | [Agency bias](https://colab.research.google.com/drive/1DGEA3HoEr8rQP_e0PY6MB74E6UsLWsH_?usp=sharing) | AK |
