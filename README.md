@@ -25,3 +25,4 @@ Students are expected to be familiar with the basics of Python programming langu
 | 5 | Morphology |18/02 | [Morpheme-to-word ratio](https://colab.research.google.com/drive/1mdgtznojollWVWusDw_eKMRBANlskiks?usp=sharing) | AK |
 | 6 | Syntax | 25/02 | Syntax trees | AK | 
 | 7 | Syntax | 18/03 | [Agency bias](https://colab.research.google.com/drive/1DGEA3HoEr8rQP_e0PY6MB74E6UsLWsH_?usp=sharing) | AK |
+| 8 | Semantics | 01/04 | [Colexification of SNOW and ICE](https://colab.research.google.com/drive/19CkNzr-_z8h4hy40AbkLdZD1kYA7zyWL?usp=sharing) | AK |
