@@ -26,3 +26,4 @@ Students are expected to be familiar with the basics of Python programming langu
 | 6 | Syntax | 25/02 | Syntax trees | AK | 
 | 7 | Syntax | 18/03 | [Agency bias](https://colab.research.google.com/drive/1DGEA3HoEr8rQP_e0PY6MB74E6UsLWsH_?usp=sharing) | AK |
 | 8 | Semantics | 01/04 | [Colexification of SNOW and ICE](https://colab.research.google.com/drive/19CkNzr-_z8h4hy40AbkLdZD1kYA7zyWL?usp=sharing) | AK |
+| 9 | Semantics | 08/04 | [Communicative efficiency in color naming](https://github.com/alexeykosh/intro-to-ling-2026/blob/main/S9/TD9_communicative_efficiency.ipynb) | AK |
