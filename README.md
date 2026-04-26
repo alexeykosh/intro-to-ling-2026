@@ -28,4 +28,4 @@ Students are expected to be familiar with the basics of Python programming langu
 | 8 | Semantics | 01/04 | [Colexification of SNOW and ICE](https://colab.research.google.com/drive/19CkNzr-_z8h4hy40AbkLdZD1kYA7zyWL?usp=sharing) | AK |
 | 9 | Semantics | 08/04 | [Communicative efficiency in color naming](https://github.com/alexeykosh/intro-to-ling-2026/blob/main/S9/TD9_communicative_efficiency.ipynb) | AK |
 | 10 | Typology | 15/04 | [Enviromental effects on the distribution of ejectives](https://github.com/alexeykosh/intro-to-ling-2026/blob/main/S10/TD10_ejectives_altitude.ipynb) | AK |
-| 11 | Linguistic laws | 22/04 | [Linguistic laws](https://colab.research.google.com/drive/1JppVpIvrPGSGbZIXgWS55aaDa14j2Idj?usp=sharing) | AK |
+| 11 | Typology | 22/04 | [Linguistic laws](https://colab.research.google.com/drive/1JppVpIvrPGSGbZIXgWS55aaDa14j2Idj?usp=sharing) | AK |
